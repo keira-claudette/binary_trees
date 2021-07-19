@@ -1,7 +1,7 @@
 # Data Structures Binary trees
 The following data structures are used for binary trees in this repository.
 ### Basic Binary Tree
-'''
+```
 /**
  * struct binary_tree_s - Binary tree node
  *
@@ -19,19 +19,18 @@ struct binary_tree_s
 };
 
 typedef struct binary_tree_s binary_tree_t;
-'''
+```
 
 ### Binary Search Tree
-''' typedef struct binary_tree_s bst_t; '''
+``` typedef struct binary_tree_s bst_t; ```
 
 ### AVL Tree
-''' typedef struct binary_tree_s avl_t; '''
+``` typedef struct binary_tree_s avl_t; ```
 
 ### Max Binary Heap
-''' typedef struct binary_tree_s heap_t; '''
+``` typedef struct binary_tree_s heap_t; ```
 
-###### All files dealwith simple binary trees, they are not BSTs thus they don't follow
- any kind of rule.
+###### All files dealwith simple binary trees, they are not BSTs thus they don't follow any kind of rule.
 
 
 # Files
